@@ -1,2 +1,2 @@
-# Cults-json
-3rd uni project with json parsing
+It was hard but I parsed it...
+JSON parsing + stream/file io, it was hard to figure out everything so I haven't manage to add NuGet packages to project
